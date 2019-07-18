@@ -9,3 +9,13 @@ The following steps are involved in this study:
 * Feature selection and feature transformation
 * Model development and validation
 * Prediction on test set to evaluate performance of model
+
+The ML models investigated include:
+* Random Forest
+* Gradient Boosting
+* SVM
+* K-Nearest Neighbor
+* Logistic Regression
+* Naive Bayes
+* MLP Regressor
+* Linear Regression, Ridge Regression, Lasso Regression
